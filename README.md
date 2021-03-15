@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @LetsGetStartedWithBub
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 LetsGetStartedWithBub/LetsGetStartedWithBub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -13,7 +7,11 @@ You can click the Preview link to take a look at your changes.
 **Mitchell-Anthony/Mitchell-Anthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👋 Hi, I’m @LetsGetStartedWithBub
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -34,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data science,Web dev,UI/UX ,AWS**
 
-- 👯 I’m looking to collaborate on **Deep Learning Projects**
+- 🤔 I’m looking to collaborate on **Deep Learning Projects**
 
 - 👩🏻‍💻 All of my projects are available on **Github**
 
@@ -66,12 +64,11 @@ Here are some ideas to get you started:
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>   
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs" width="40" height="40"/> </a>
-<a href="https://trello.com/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="vs" width="40" height="40"/> </a></p>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LetsGetStartedWithBub&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="mitchell" /></p>
 <!-- https://github-readme-stats.vercel.app/api?username=mitchell-anthony&theme=chartreuse-dark&show_icons=true&count_private=true -->
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=LetsGetStartedWithBub&theme=chartreuse-dark&show_icons=true&count_private=true" alt="mitchell" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=LetsGetStartedWithBub&theme=chartreuse-dark&show_icons=true&count_private=true" alt="mitchell" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LetsGetStartedWithBub&theme=chartreuse-dark&show_icons=true" alt="hey mitchell" /></p>
 
