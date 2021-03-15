@@ -69,11 +69,11 @@ Here are some ideas to get you started:
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs" width="40" height="40"/> </a>
 <a href="https://trello.com/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="vs" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchell-anthony&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="mitchell" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LetsGetStartedWithBub&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="mitchell" /></p>
 <!-- https://github-readme-stats.vercel.app/api?username=mitchell-anthony&theme=chartreuse-dark&show_icons=true&count_private=true -->
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mitchell-anthony&theme=chartreuse-dark&show_icons=true&count_private=true" alt="mitchell" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=LetsGetStartedWithBub&theme=chartreuse-dark&show_icons=true&count_private=true" alt="mitchell" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitchell-anthony&theme=chartreuse-dark&show_icons=true" alt="hey mitchell" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LetsGetStartedWithBub&theme=chartreuse-dark&show_icons=true" alt="hey mitchell" /></p>
 
 <h3 align="center">CONNECT WITH ME 😃🙌</h3>
 <p align="center">
