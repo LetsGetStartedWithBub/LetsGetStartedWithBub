@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey 👋, I am Mitchell Anthony👩🏻‍💻 </h1>
 <h3 align="center"><i> A keen learner who enjoy's exploring technologies that can help in development of amazing project</i></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LetsGetStartedWithBub&label=Profile%20views&color=blueviolet&style=flat" alt="mitchel-anthony" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LetsGetStartedWithBub&label=Profile%20views&color=blueviolet&style=flat&count_private=true" alt="mitchel-anthony" /> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=LetsGetStartedWithBub&theme=juicyfresh" alt="mitchell"><img src="https://github-profile-trophy.vercel.app/?username=LetsGetStartedWithBub&theme=juicyfresh" alt="mitchell" /></a></p>
 
@@ -61,9 +61,6 @@ Here are some ideas to get you started:
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>   
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LetsGetStartedWithBub&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="mitchell" /></p>
