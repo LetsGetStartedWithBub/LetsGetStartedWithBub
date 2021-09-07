@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey 👋, I am Mitchell Anthony👩🏻‍💻 </h1>
-<h3 align="center"><i> A keen learner who enjoy's exploring technologies that can help in development of amazing project</i></h3>
+<h1 align="center">Hey 👋, I am Mitchell 👩🏻‍💻 </h1>
+<h3 align="center"><i> A keen learner who enjoy's exploring technologies that can develop amazing project</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LetsGetStartedWithBub&label=Profile%20views&color=blueviolet&style=flat&count_private=true" alt="mitchel-anthony" /> </p>
 
@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Computer Vision and automations on AWS using python**
 
-- 🌱 I’m currently learning **Data science,Web dev,UI/UX ,AWS**
+- 🌱 I’m currently learning **Data science, Web dev, UI/UX, AWS,**
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
 
-- 👩🏻‍💻 All of my projects are available on **Github**
+- 👩🏻‍💻 All of my projects are available on **Github** (That's not true 😜😏)
 
 - 💬 Ask me about **Python,Django,NLP,AWS,Machine Learning,Deep Learning!**
 
