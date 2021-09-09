@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LetsGetStartedWithBub&label=Profile%20views&color=blueviolet&style=flat&count_private=true" alt="mitchel-anthony" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=LetsGetStartedWithBub&theme=juicyfresh" alt="mitchell"><img src="https://github-profile-trophy.vercel.app/?username=LetsGetStartedWithBub&theme=juicyfresh" alt="mitchell" /></a></p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=LetsGetStartedWithBub&theme=juicyfresh" alt="mitchell"><img src="https://github-profile-trophy.vercel.app/?username=LetsGetStartedWithBub&theme=juicyfresh&count_private=true" alt="mitchell" /></a></p>
 
 - 🔭 I’m currently working on **Computer Vision and automations on AWS using python**
 
