@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hola 👋, I am Mitchell 👩🏻‍💻 </h1>
-<h3 align="center"><i> A keen learner who enjoy's exploring technologies that can develop amazing project</i></h3>
+<h3 align="center"><i> A keen learner who enjoy's exploring technologies and developing amazing projects👻 </i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LetsGetStartedWithBub&label=Profile%20views&color=blueviolet&style=flat&count_private=true" alt="mitchel-anthony" /> </p>
 
