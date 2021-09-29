@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=LetsGetStartedWithBub&theme=juicyfresh" alt="mitchell"><img src="https://github-profile-trophy.vercel.app/?username=LetsGetStartedWithBub&theme=juicyfresh&count_private=true" alt="mitchell" /></a></p>
 
-- 🔭 I’m currently working on **Computer Vision and automations on AWS using python**
-
-- 🌱 I’m currently learning **Data science, Web dev, UI/UX, AWS,**
-
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
 
 - 👩🏻‍💻 All of my projects are available on **Github** (That's not true 😜😏)
