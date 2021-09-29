@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LetsGetStartedWithBub&label=Profile%20views&color=blueviolet&style=flat&count_private=true" alt="mitchel-anthony" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=LetsGetStartedWithBub&theme=juicyfresh" alt="mitchell"><img src="https://github-profile-trophy.vercel.app/?username=LetsGetStartedWithBub&theme=juicyfresh&count_private=true" alt="mitchell" /></a></p>
-
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
 
 - 👩🏻‍💻 All of my projects are available on **Github** (That's not true 😜😏)
@@ -38,7 +36,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I think I'm a Good Developer!😁😂**
 
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
@@ -58,7 +56,7 @@ Here are some ideas to get you started:
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs" width="40" height="40"/> </a></p>
-
+-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LetsGetStartedWithBub&theme=chartreuse-dark&show_icons=true&count_private=true&locale=en&layout=compact" alt="mitchell" /></p>
 <!-- https://github-readme-stats.vercel.app/api?username=mitchell-anthony&theme=chartreuse-dark&show_icons=true&count_private=true -->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LetsGetStartedWithBub&theme=chartreuse-dark&show_icons=true&count_private=true" alt="mitchell" /></p>
