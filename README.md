@@ -67,5 +67,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/mitchell-david-anthony/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mitchell upps!!!!" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC99Hu7dB4CaoniO7lOLL4NA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Mitchell upps!!!!" height="30" width="40" /></a>
-<a href="https://mitchells-manifestations.blogspot.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Mitchell upps!!!!" height="30" width="40" /></a>
+<a href="https://mitchells-canvas.blogspot.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Mitchell upps!!!!" height="30" width="40" /></a>
   </p>
