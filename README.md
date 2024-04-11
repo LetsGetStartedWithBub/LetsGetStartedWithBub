@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 👩🏻‍💻 All of my projects are available on **Github** (That's not true 😜😏)
 
-- 💬 Ask me about **Python,Django,NLP,AWS,Machine Learning,Deep Learning!**
+- 💬 Ask me about **Python,Django,Ruby,Javascript,NLP,AWS,Machine Learning,Deep Learning!**
 
 - 📫 How to reach me **letsgetstartedwithbub@gmail.com**
 
