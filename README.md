@@ -54,28 +54,22 @@ Merged PR: [Automation Scripts - Python Geeks](https://github.com/PythonGeeks/Au
   <img src="https://leetcard.jacoblin.cool/mitchell000?theme=dark&font=Fira%20Code" />
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/mitchell000/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 👮‍💻 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mitchell-david-anthony/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/LetsGetStartedWithBub">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:letsgetstartedwithbub@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="40" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/mitchell000/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
