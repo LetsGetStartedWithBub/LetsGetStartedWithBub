@@ -41,9 +41,15 @@
 
 ## 💪 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mitchell000?theme=dark&font=Fira%20Code)](https://leetcode.com/u/mitchell000/)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mitchell000?theme=dark&font=Fira%20Code" />
+</p>
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mitchell000/)
+<p align="center">
+  <a href="https://leetcode.com/u/mitchell000/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -58,6 +64,9 @@
   </a>
   <a href="https://twitter.com/yourhandle">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+  <a href="https://leetcode.com/u/mitchell000/">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
   </a>
 </p>
 
