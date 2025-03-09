@@ -34,10 +34,15 @@
 </p>
 ---
 
+## 🚀 Open Source Contributions
+
+Merged PR: [Automation Scripts - Python Geeks](https://github.com/PythonGeeks/Automation-Scripts/pull/123)
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,go,java,aws,docker,celery,react,nodejs,postgresql,mysql,redis,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python,django,go,java,aws,docker,react,nodejs,postgresql,mysql,redis,kubernetes,celery" />
 </p>
 
 ---
@@ -59,14 +64,14 @@
 ## 👮‍💻 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/mitchell-david-anthony/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://github.com/LetsGetStartedWithBub">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  <a href="letsgetstartedwithbub@gmail.com">
+    <img src="https://skillicons.dev/icons?i=email" height="40" />
   </a>
   <a href="https://leetcode.com/u/mitchell000/">
     <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
@@ -79,61 +84,4 @@
 
 😃 **Feel free to explore my repos and connect!**
 
-
-
-
-
-
-
-
-
-
-
-* * *
-
-## Contribution Graph 📈
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark)
-
-* * *
-
-## Tech Stack 🛠️
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
-
-* * *
-
-## LeetCode Stats 🏆
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/mitchell000?theme=dark&font=Baloo&ext=contest)
-![LeetCode Progress](https://leetcard.jacoblin.cool/mitchell000?theme=dark&font=Baloo&ext=activity)
-
-
-* * *
-
-## Open Source Contributions 🚀
-
-Merged PR: [Automation Scripts - Python Geeks](https://github.com/PythonGeeks/Automation-Scripts/pull/123)
-
-* * *
-
-## Let's Connect! 🌍
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-
-* * *
-
-🔥 Always Learning | 🚀 Building Cool Stuff | ☕ Powered by Coffee!
-
-😃 **Feel free to explore my repos and connect!**
 
