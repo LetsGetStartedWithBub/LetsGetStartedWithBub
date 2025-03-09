@@ -38,6 +38,7 @@
 ## 🚀 Open Source Contributions
 
 Merged PR: [Automation Scripts - Python Geeks](https://github.com/PythonGeeks/Automation-Scripts/pull/123)
+
 ---
 
 ## 🛠️ Tech Stack
