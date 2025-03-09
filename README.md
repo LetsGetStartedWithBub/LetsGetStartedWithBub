@@ -34,7 +34,15 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,go,java,aws,docker,celery,react,nodejs,postgresql,mysql,redis,kubernetes" />
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" title="Django"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" title="Golang"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" title="React"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node.js"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" title="Celery"/></a>
 </p>
 
 ---
@@ -42,33 +50,24 @@
 ## 💪 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mitchell000?theme=dark&font=Fira%20Code" />
+  <img src="https://leetcard.jacoblin.cool/mitchell000?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/mitchell000/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+🔹 **Problems Solved**: 522+  
+🔹 **Easy**: 178 | **Medium**: 272 | **Hard**: 72  
+🔹 **Rank**: 121,764  
+🔹 **Total Submissions in a Year**: 200  
+🔹 **Max Streak**: 34 days  
+🔹 **Recent Badge**: ![365 Days Badge](https://img.shields.io/badge/365%20Days%20Badge-Gold?style=for-the-badge&logo=leetcode&logoColor=white)  
 
 ---
 
-## 👮‍💻 Let's Connect!
+## 💌 Let's Connect!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://github.com/LetsGetStartedWithBub">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
-  </a>
-  <a href="https://leetcode.com/u/mitchell000/">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LetsGetStartedWithBub)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mitchell000/)
 
 ---
 
