@@ -29,9 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LetsGetStartedWithBub&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LetsGetStartedWithBub&show_icons=true&theme=radical&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetsGetStartedWithBub&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
 ---
 
 ## 🚀 Open Source Contributions
@@ -70,11 +71,11 @@ Merged PR: [Automation Scripts - Python Geeks](https://github.com/PythonGeeks/Au
   <a href="https://github.com/LetsGetStartedWithBub">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="letsgetstartedwithbub@gmail.com">
-    <img src="https://skillicons.dev/icons?i=email" height="40" />
+  <a href="mailto:letsgetstartedwithbub@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="40" alt="Email" />
   </a>
   <a href="https://leetcode.com/u/mitchell000/">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
   </a>
 </p>
 
