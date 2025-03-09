@@ -43,13 +43,23 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mitchell000?theme=dark&font=Fira%20Code)](https://leetcode.com/u/mitchell000/)
 
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mitchell000/)
+
 ---
 
 ## 👮‍💻 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LetsGetStartedWithBub)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://github.com/LetsGetStartedWithBub">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+</p>
 
 ---
 
