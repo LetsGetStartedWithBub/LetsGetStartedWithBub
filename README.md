@@ -78,6 +78,9 @@ Merged PR: [Automation Scripts - Python Geeks](https://github.com/PythonGeeks/Au
 
 🔥 Always Learning | 🚀 Building Cool Stuff | ☕ Powered by Coffee!
 
-😃 **Feel free to explore my repos and connect!**
 
+
+<p > 
+  😃 <strong>Feel free to explore my repos and connect!</strong>
+  <img align="right" src="https://komarev.com/ghpvc/?username=LetsGetStartedWithBub&label=Profile%20views&color=blueviolet&style=flat&count_private=true" alt="mitchel-anthony" /> </p>
 
