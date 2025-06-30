@@ -1,6 +1,6 @@
 # Hi there, I'm Mitchell! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;Python+%7C+Django+%7C+Golang;Cloud+Enthusiast+%7C+AWS+Certified;Loves+to+Build+and+Learn!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Developer;Python+%7C+Django+%7C+Golang;Cloud+Enthusiast+%7C+AWS+Certified;Loves+to+Build+and+Learn!)](https://git.io/typing-svg)
 
 ---
 
